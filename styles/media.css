@@ -279,7 +279,7 @@ grid-template-columns: repeat(2 , 1fr);
     display: none;
 }
 .newsletter-content .sub-title {
-    font-size: 30px;
+    font-size: 29px;
    
 }
 
@@ -452,7 +452,7 @@ grid-template-columns: repeat(1 , 1fr);
 }  
 
 
-@media (max-width : 400px) {
+@media (max-width : 401px) {
 
   aside{
       display: none;
